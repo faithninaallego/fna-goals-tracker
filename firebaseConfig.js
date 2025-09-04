@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCXo4Qj4rnOs3ls4fcSVrZ7Vob4_FAIgss",
+  apiKey: "AIzaSyCXo4Qj4rnOs3ls4fcSVrZ7Vob4_FAIgss",//dggr
   authDomain: "fna-goal-tracker.firebaseapp.com",
   projectId: "fna-goal-tracker",
   storageBucket: "fna-goal-tracker.firebasestorage.app",
